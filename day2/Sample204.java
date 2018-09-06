@@ -6,7 +6,6 @@ public class Sample204 {
 
 		int a;
 		double b, c, d;
-
 		a = (int)1.23;		// キャストで代入
 		b = 1.23;
 		c = 10;					// キャストなしで代入
